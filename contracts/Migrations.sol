@@ -1,5 +1,5 @@
 pragma solidity ^0.4.17;
-
+//truffle auto generated contract
 contract Migrations {
   address public owner;
   uint public last_completed_migration;
